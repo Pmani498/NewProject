@@ -2,7 +2,7 @@ package manisample;
 
 import org.testng.annotations.Test;
 
-public class Program1 {
+public class Program1Test {
 	@Test
 	public void demo() {
 		System.out.println("First jenkins project");
