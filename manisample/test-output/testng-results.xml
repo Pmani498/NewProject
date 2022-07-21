@@ -2,16 +2,16 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-20T17:23:49Z" name="Suite" finished-at="2022-07-20T17:23:49Z" duration-ms="74">
+  <suite started-at="2022-07-21T09:03:53Z" name="Suite" finished-at="2022-07-21T09:03:53Z" duration-ms="60">
     <groups>
     </groups>
-    <test started-at="2022-07-20T17:23:49Z" name="Test" finished-at="2022-07-20T17:23:49Z" duration-ms="74">
+    <test started-at="2022-07-21T09:03:53Z" name="Test" finished-at="2022-07-21T09:03:53Z" duration-ms="60">
       <class name="manisample.Program1">
-        <test-method signature="demo()[pri:0, instance:manisample.Program1@1efe439d]" started-at="2022-07-20T22:53:49Z" name="demo" finished-at="2022-07-20T22:53:49Z" duration-ms="37" status="PASS">
+        <test-method signature="demo()[pri:0, instance:manisample.Program1@1efe439d]" started-at="2022-07-21T14:33:53Z" name="demo" finished-at="2022-07-21T14:33:53Z" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
-        <test-method signature="democycle()[pri:0, instance:manisample.Program1@1efe439d]" started-at="2022-07-20T22:53:49Z" name="democycle" finished-at="2022-07-20T22:53:49Z" duration-ms="2" status="PASS">
+        <test-method signature="democycle()[pri:0, instance:manisample.Program1@1efe439d]" started-at="2022-07-21T14:33:53Z" name="democycle" finished-at="2022-07-21T14:33:53Z" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- democycle -->
