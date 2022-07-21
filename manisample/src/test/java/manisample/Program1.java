@@ -14,6 +14,9 @@ public class Program1 {
 		System.out.println("First jenkins project");
 		System.out.println("First jenkins project");
 		System.out.println("Second maven project");
+		System.out.println("First jenkins project");
+		System.out.println("First jenkins project");
+		System.out.println("Second maven project");
 	}
 
 }
