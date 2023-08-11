@@ -7,6 +7,8 @@ public class Program1Test {
 	public void demo() {
 		System.out.println("First jenkins project");
 		System.out.println("Second maven project");
+		System.out.println("Second mani project");
+		System.out.println("Second mani project");
 	}
 
 	@Test
